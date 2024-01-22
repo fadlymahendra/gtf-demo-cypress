@@ -27,6 +27,7 @@ npx cypress open
 ## Next improvement
 This test framework has been created in a very simple manner. For future enhancements, the following actions can be considered:
 - Adding valid and invalid scenarios.
+- Improve wait mechanism using implicit wait instead of explicit wait
 - Adding dotenv capability.
 - Creating base functions.
 - Organizing tests, pages, and test data.
